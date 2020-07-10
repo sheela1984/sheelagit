@@ -27,8 +27,8 @@ public class CollectionOne {
 		students.add("Garry");  //4
 		
 		//PRInt coLLECTiOn
-		System.out.println(students);
 		
+		System.out.println("This is the edit from second developer");
 		
 		//READ an element FROM CoLLECTioN
 		
