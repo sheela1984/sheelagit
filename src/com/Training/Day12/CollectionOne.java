@@ -28,7 +28,7 @@ public class CollectionOne {
 		
 		//PRInt coLLECTiOn
 		
-		System.out.println("This is the edit from second developer");
+		System.out.println("This is the edit from second ipipideveloper");
 		
 		//READ an element FROM CoLLECTioN
 		
